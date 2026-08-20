@@ -1,0 +1,41 @@
+{
+  "" : {
+    "const-values" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastro-primary.swiftconstvalues",
+    "dependencies" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastro-primary.d",
+    "diagnostics" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastro-primary.dia",
+    "emit-module-dependencies" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastro-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastro-primary-emit-module.dia",
+    "pch" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastro-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastro-primary.swiftdeps"
+  },
+  "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/mastro.build/Release/mastro.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/GeneratedAssetSymbols.o"
+  },
+  "/Users/francescozanchetta/Desktop/mastro/mastro/CantiereCard.swift" : {
+    "index-unit-output-path" : "/mastro.build/Release/mastro.build/Objects-normal/x86_64/CantiereCard.o",
+    "llvm-bc" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/CantiereCard.bc",
+    "object" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/CantiereCard.o"
+  },
+  "/Users/francescozanchetta/Desktop/mastro/mastro/ContentView.swift" : {
+    "index-unit-output-path" : "/mastro.build/Release/mastro.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/ContentView.o"
+  },
+  "/Users/francescozanchetta/Desktop/mastro/mastro/MezzoCard.swift" : {
+    "index-unit-output-path" : "/mastro.build/Release/mastro.build/Objects-normal/x86_64/MezzoCard.o",
+    "llvm-bc" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/MezzoCard.bc",
+    "object" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/MezzoCard.o"
+  },
+  "/Users/francescozanchetta/Desktop/mastro/mastro/Models.swift" : {
+    "index-unit-output-path" : "/mastro.build/Release/mastro.build/Objects-normal/x86_64/Models.o",
+    "llvm-bc" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/Models.bc",
+    "object" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/Models.o"
+  },
+  "/Users/francescozanchetta/Desktop/mastro/mastro/mastroApp.swift" : {
+    "index-unit-output-path" : "/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastroApp.o",
+    "llvm-bc" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastroApp.bc",
+    "object" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastroApp.o"
+  }
+}

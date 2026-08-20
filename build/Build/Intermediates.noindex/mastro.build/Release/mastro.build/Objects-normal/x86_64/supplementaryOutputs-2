@@ -1,0 +1,12 @@
+{
+  "/Users/francescozanchetta/Desktop/mastro/mastro/CantiereCard.swift" : {
+    "abi-baseline-json" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastro.abi.json",
+    "const-values" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastro-primary.swiftconstvalues",
+    "dependencies" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastro-primary.d",
+    "diagnostics" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastro-primary.dia",
+    "objc-header" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastro-Swift.h",
+    "swiftdoc" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastro.swiftdoc",
+    "swiftmodule" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastro.swiftmodule",
+    "swiftsourceinfo" : "/Users/francescozanchetta/Desktop/mastro/build/Build/Intermediates.noindex/mastro.build/Release/mastro.build/Objects-normal/x86_64/mastro.swiftsourceinfo"
+  }
+}

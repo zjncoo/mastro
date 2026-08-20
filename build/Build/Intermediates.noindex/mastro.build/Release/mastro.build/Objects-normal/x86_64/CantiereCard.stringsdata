@@ -1,0 +1,1384 @@
+{
+  "source": "/Users/francescozanchetta/Desktop/mastro/mastro/CantiereCard.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Modifica Cantiere",
+        "location": {
+          "startingColumn": 15,
+          "startingLine": 158
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld/%lld Documenti",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 169
+        }
+      },
+      {
+        "comment": "",
+        "key": "📍 %@ — Consegna: %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "📝 %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "TERMINATO",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 121
+        }
+      },
+      {
+        "comment": "",
+        "key": "• %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 129
+        }
+      },
+      {
+        "comment": "",
+        "key": "Finder",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 202
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ore (%lldh)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 209
+        }
+      },
+      {
+        "comment": "",
+        "key": "FIR (%lld)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 215
+        }
+      },
+      {
+        "comment": "",
+        "key": "SAL (%lld%%)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 222
+        }
+      },
+      {
+        "comment": "",
+        "key": "DDT (%lld)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 228
+        }
+      },
+      {
+        "comment": "",
+        "key": "Noleggi (%lld)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 235
+        }
+      },
+      {
+        "comment": "",
+        "key": "Diario (%lld)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 241
+        }
+      },
+      {
+        "comment": "",
+        "key": "Esporta Fascicolo Tecnico PDF",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 247
+        }
+      },
+      {
+        "comment": "",
+        "key": "Esporta Verbale Inizio Lavori PDF",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 248
+        }
+      },
+      {
+        "comment": "",
+        "key": "Esporta Verbale Ultimazione Lavori PDF",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 249
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verbali PDF",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 251
+        }
+      },
+      {
+        "comment": "",
+        "key": "Riapri",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 261
+        }
+      },
+      {
+        "comment": "",
+        "key": "Termina",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 261
+        }
+      },
+      {
+        "comment": "",
+        "key": "Elimina",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 270
+        }
+      },
+      {
+        "comment": "",
+        "key": "Operai (%lld): %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 285
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gestisci Operai",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 293
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mezzi (%lld): %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 309
+        }
+      },
+      {
+        "comment": "",
+        "key": "Subappalti (%lld): %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 318
+        }
+      },
+      {
+        "comment": "",
+        "key": "Trova",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 380
+        }
+      },
+      {
+        "comment": "",
+        "key": "📁 Altri File Rilevati nella Cartella (%lld)",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 390
+        }
+      },
+      {
+        "comment": "",
+        "key": "120 gg",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 437
+        }
+      },
+      {
+        "comment": "",
+        "key": "Calcola automaticamente validità DURC (120 giorni da oggi)",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 440
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 443
+        }
+      },
+      {
+        "comment": "",
+        "key": "Aggiungi scadenza a Google Calendar",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 466
+        }
+      },
+      {
+        "comment": "",
+        "key": "Trascina file qui dal Finder",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 481
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sfoglia...",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 487
+        }
+      },
+      {
+        "comment": "",
+        "key": "📖 Giornale dei Lavori - %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 532
+        }
+      },
+      {
+        "comment": "",
+        "key": "Chiudi",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 535
+        }
+      },
+      {
+        "comment": "",
+        "key": "Aggiungi Nota Giornaliera di Oggi",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 539
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lavorazioni svolte, avanzamento e presenze...",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 554
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note sicurezza / segnalazioni RLS...",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 557
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registra nel Giornale Lavori",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 560
+        }
+      },
+      {
+        "comment": "",
+        "key": "Meteo:",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 544
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sereno ☀️",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 545
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nuvoloso ⛅️",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 546
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pioggia 🌧️",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 547
+        }
+      },
+      {
+        "comment": "",
+        "key": "Vento Forte 💨",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 548
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nessuna nota registrata nel diario lavori.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 583
+        }
+      },
+      {
+        "comment": "",
+        "key": "⚠️ Sicurezza: %@",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 595
+        }
+      },
+      {
+        "comment": "",
+        "key": "Assegna Operai - %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 624
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nessun dipendente registrato nell'anagrafica.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 631
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cerca operaio...",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 640
+        }
+      },
+      {
+        "comment": "",
+        "key": "Assegnato",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 685
+        }
+      },
+      {
+        "comment": "",
+        "key": "🟢 Disponibile",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 693
+        }
+      },
+      {
+        "comment": "",
+        "key": "In: %@",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 701
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 659
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ore Ordinarie",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 751
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld h",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 752
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ore Straordinarie",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 755
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld h",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 756
+        }
+      },
+      {
+        "comment": "",
+        "key": "Totale Ore Manodopera",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 759
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld h",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 760
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registra Giornata Lavorativa",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 766
+        }
+      },
+      {
+        "comment": "",
+        "key": "Operaio / Dipendente:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 769
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 770
+        }
+      },
+      {
+        "comment": "",
+        "key": "Seleziona operaio...",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 771
+        }
+      },
+      {
+        "comment": "",
+        "key": "Data Lavoro:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 781
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 782
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ore Ordinarie: %lld h",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 786
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ore Straordinarie: %lld h",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 791
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note / Attività svolta:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 797
+        }
+      },
+      {
+        "comment": "",
+        "key": "Descrizione lavoro svolto...",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 798
+        }
+      },
+      {
+        "comment": "",
+        "key": "Aggiungi Registro Ore",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 808
+        }
+      },
+      {
+        "comment": "",
+        "key": "Storico Rilevazione Ore:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 819
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nessuna ora registrata finora.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 822
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ • %@",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 829
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lldh ord",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 834
+        }
+      },
+      {
+        "comment": "",
+        "key": "+%lldh stra",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 836
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registro Rifiuti Edili & Formulari FIR - %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 891
+        }
+      },
+      {
+        "comment": "",
+        "key": "Chiudi",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 1002
+        }
+      },
+      {
+        "comment": "",
+        "key": "Formulari Registrati",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 897
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 898
+        }
+      },
+      {
+        "comment": "",
+        "key": "Totale Rifiuti Smaltiti",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 901
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld kg",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 902
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nuovo Formulario FIR",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 908
+        }
+      },
+      {
+        "comment": "",
+        "key": "Numero Formulario FIR:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 912
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. FIR-2026-001",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 913
+        }
+      },
+      {
+        "comment": "",
+        "key": "Data Trasporto:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 917
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 918
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tipologia Rifiuto:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 924
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 925
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quantità (in Kg):",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 932
+        }
+      },
+      {
+        "comment": "",
+        "key": "500",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 933
+        }
+      },
+      {
+        "comment": "",
+        "key": "Impianto / Discarica Destinazione:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 938
+        }
+      },
+      {
+        "comment": "",
+        "key": "Discarica autorizzata...",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 939
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note / Trasportatore:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 943
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note o trasportatore...",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 944
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registra FIR",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 955
+        }
+      },
+      {
+        "comment": "",
+        "key": "Elenco Formulari FIR Registrati:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 966
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nessun FIR smaltimento inserito.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 969
+        }
+      },
+      {
+        "comment": "",
+        "key": "FIR n. %@",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 975
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ • %lld kg • Dest: %@",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 976
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stati Avanzamento Lavori (SAL) - %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1027
+        }
+      },
+      {
+        "comment": "",
+        "key": "Chiudi",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 1137
+        }
+      },
+      {
+        "comment": "",
+        "key": "Avanzamento Cantiere Totale:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1033
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1035
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nuovo SAL / Acconto",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1042
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fatturato / Incassato dal Committente",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 1064
+        }
+      },
+      {
+        "comment": "",
+        "key": "Titolo SAL:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1045
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. SAL 1 - 30% Fondamenta",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 1046
+        }
+      },
+      {
+        "comment": "",
+        "key": "Percentuale SAL (%):",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 1051
+        }
+      },
+      {
+        "comment": "",
+        "key": "30",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 1052
+        }
+      },
+      {
+        "comment": "",
+        "key": "Importo Acconto (€):",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 1055
+        }
+      },
+      {
+        "comment": "",
+        "key": "15000",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 1056
+        }
+      },
+      {
+        "comment": "",
+        "key": "Data Raggiungimento:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 1059
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 1060
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note / Oggetto Lavori:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1067
+        }
+      },
+      {
+        "comment": "",
+        "key": "Descrizione lavori compresi...",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 1068
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registra SAL",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 1080
+        }
+      },
+      {
+        "comment": "",
+        "key": "Storico Stati Avanzamento Lavori:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1091
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nessun SAL registrato.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1094
+        }
+      },
+      {
+        "comment": "",
+        "key": "€ %@ • %@",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 1108
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 1102
+        }
+      },
+      {
+        "comment": "",
+        "key": "✓ Fatturato",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 1113
+        }
+      },
+      {
+        "comment": "",
+        "key": "⏳ In attesa",
+        "location": {
+          "startingColumn": 87,
+          "startingLine": 1113
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gestione DDT & Materiali in Ingresso - %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1162
+        }
+      },
+      {
+        "comment": "",
+        "key": "Chiudi",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 1272
+        }
+      },
+      {
+        "comment": "",
+        "key": "DDT Registrati",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1168
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1169
+        }
+      },
+      {
+        "comment": "",
+        "key": "Totale Spesa Materiali",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1172
+        }
+      },
+      {
+        "comment": "",
+        "key": "€ %@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1173
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registra Nuovo Documento di Trasporto (DDT)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1179
+        }
+      },
+      {
+        "comment": "",
+        "key": "Numero DDT / Bolla:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 1183
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. 1234/A",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 1184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Data DDT:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 1187
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 1188
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fornitore / Magazzino Edile:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1193
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Edilizia Rossi Srl",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 1194
+        }
+      },
+      {
+        "comment": "",
+        "key": "Descrizione Materiali:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1198
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Cemento 325, Tubi PVC, Rete elettro-saldata",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 1199
+        }
+      },
+      {
+        "comment": "",
+        "key": "Importo Stimato (€):",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 1204
+        }
+      },
+      {
+        "comment": "",
+        "key": "0.00",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 1205
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note Aggiuntive:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 1208
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note...",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 1209
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registra DDT Materiali",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 1222
+        }
+      },
+      {
+        "comment": "",
+        "key": "DDT Materiali Ingressi Cantiere:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1234
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nessun DDT registrato.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1237
+        }
+      },
+      {
+        "comment": "",
+        "key": "📦 DDT n. %@ • %@",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 1243
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ • %@",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 1244
+        }
+      },
+      {
+        "comment": "",
+        "key": "€ %@",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 1250
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gestione Noleggi Attrezzature & Ponteggi - %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1304
+        }
+      },
+      {
+        "comment": "",
+        "key": "Chiudi",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 1428
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registra Nuovo Noleggio",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1309
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attrezzatura / Macchinario a Noleggio:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1312
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Miniescavatore 18 q.li",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 1314
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 1315
+        }
+      },
+      {
+        "comment": "",
+        "key": "Esempi...",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 1316
+        }
+      },
+      {
+        "comment": "",
+        "key": "Società di Noleggio / Fornitore:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 1326
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. NoloEdile SpA",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 1327
+        }
+      },
+      {
+        "comment": "",
+        "key": "Costo Giornaliero (€/gg):",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 1330
+        }
+      },
+      {
+        "comment": "",
+        "key": "50",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 1331
+        }
+      },
+      {
+        "comment": "",
+        "key": "Data Inizio Nolo:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 1337
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 1338
+        }
+      },
+      {
+        "comment": "",
+        "key": "Data Fine Prevista Rientro:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 1341
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 1342
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note / Condizioni:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1347
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note aggiuntive nolo...",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 1348
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registra Noleggio",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 1359
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attrezzature in Noleggio per Cantiere:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1371
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nessun noleggio attrezzatura registrato.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1374
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fornitore: %@ • € %lld/gg • Rientro: %@",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 1391
+        }
+      },
+      {
+        "comment": "",
+        "key": "🚜 %@",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 1381
+        }
+      },
+      {
+        "comment": "",
+        "key": "✓ Restituito",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 1383
+        }
+      },
+      {
+        "comment": "",
+        "key": "In Nolo (%lld gg rimanenti)",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 1386
+        }
+      },
+      {
+        "comment": "",
+        "key": "Riapri Nolo",
+        "location": {
+          "startingColumn": 74,
+          "startingLine": 1402
+        }
+      },
+      {
+        "comment": "",
+        "key": "Segna Restituito",
+        "location": {
+          "startingColumn": 90,
+          "startingLine": 1402
+        }
+      }
+    ]
+  },
+  "version": 1
+}

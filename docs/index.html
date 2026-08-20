@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mastro — Software Nativo per macOS per Cantieri & Mezzi</title>
+    <meta name="description" content="mastro è l'applicazione nativa per macOS per la gestione di cantieri edili, parco mezzi, scadenze, lavoratori e report PDF.">
+    
+    <!-- Typography: Manrope Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="editorial-theme">
+
+    <!-- Top Announcement Bar -->
+    <div class="top-bar">
+        <span> Software Nativo per macOS 13+ • Apple Silicon & Intel</span>
+        <a href="mastro_installer.dmg" download class="top-bar-link">Scarica v1.0 .DMG →</a>
+    </div>
+
+    <!-- Navigation Header -->
+    <nav class="nav">
+        <div class="nav-container">
+            <a href="#" class="nav-brand">
+                <span class="brand-logo-box">🔲</span>
+                <span class="brand-name">mastro</span>
+            </a>
+            
+            <div class="nav-menu">
+                <a href="#overview">Panoramica</a>
+                <a href="#features">Funzionalità</a>
+                <a href="#interface">Interfaccia</a>
+                <a href="#specs">Requisiti</a>
+            </div>
+
+            <div class="nav-cta">
+                <a href="mastro_installer.dmg" download class="btn-solid">Scarica per Mac</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Editorial Hero Section -->
+    <section class="hero-editorial motion-reveal">
+        <div class="container">
+            <div class="hero-top-row">
+                <div class="pill-tag">
+                    <span class="dot-active"></span>
+                    <span>Gestione Cantieri & Parco Mezzi</span>
+                </div>
+                <div class="hero-year">2026 Edition</div>
+            </div>
+
+            <h1 class="hero-headline">
+                mastro
+            </h1>
+            
+            <div class="hero-grid-sub">
+                <div class="hero-big-subtitle">
+                    Organizzazione essenziale per l'edilizia moderna. Direttamente sul tuo Mac.
+                </div>
+                <div class="hero-paragraph">
+                    mastro è l'applicazione nativa progettata per eliminare la frammentazione dei dati nei cantieri edili. Unisce in un'unica interfaccia pulita il controllo dei lavori, le scadenze di revisioni e DPI dei mezzi, l'anagrafica del personale e la generazione dei report PDF con il tuo logo aziendale.
+                </div>
+            </div>
+
+            <div class="hero-actions-row">
+                <a href="mastro_installer.dmg" download class="btn-hero-black">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M15.97 6.85c.66-.8 1.11-1.92.99-3.05-.96.04-2.12.64-2.8 1.44-.61.71-1.14 1.86-1 2.98 1.07.08 2.15-.57 2.81-1.37z"/></svg>
+                    <span>Scarica mastro_installer.dmg</span>
+                </a>
+                <div class="hero-meta-badge">
+                    <span>100% Locale & Riservato</span>
+                    <span class="sep">•</span>
+                    <span>Zero Abbonamenti</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Interactive macOS Interface Showcase -->
+    <section id="interface" class="showcase-section">
+        <div class="container">
+            <div class="studio-card-window motion-reveal">
+                <div class="window-bar">
+                    <div class="window-controls">
+                        <span class="w-btn red"></span>
+                        <span class="w-btn yellow"></span>
+                        <span class="w-btn green"></span>
+                    </div>
+                    <div class="window-address">mastro — "Edilizia Modern Srl"</div>
+                    <div class="window-status-pill">Archivio Locale Attivo</div>
+                </div>
+
+                <div class="window-viewport">
+                    <!-- Interactive Sidebar -->
+                    <aside class="app-sidebar">
+                        <div class="app-brand-block">
+                            <div class="app-brand-icon">🔲</div>
+                            <div>
+                                <div class="app-brand-title">Edilizia Modern</div>
+                                <div class="app-brand-sub">Cartella Desktop Attiva</div>
+                            </div>
+                        </div>
+
+                        <div class="sidebar-category">Menu Principale</div>
+                        <ul class="app-nav">
+                            <li class="active" data-tab="cantieri"><span>🏗️</span> Cantieri</li>
+                            <li data-tab="mezzi"><span>🚛</span> Mezzi & Scadenze</li>
+                            <li data-tab="dipendenti"><span>👷</span> Dipendenti</li>
+                            <li data-tab="subappalti"><span>🤝</span> Subappaltatori</li>
+                            <li data-tab="notifiche"><span>🔔</span> Notifiche macOS</li>
+                            <li data-tab="settings"><span>⚙️</span> Impostazioni</li>
+                        </ul>
+                    </aside>
+
+                    <!-- Interactive Main Content -->
+                    <main class="app-canvas">
+                        <div class="canvas-header">
+                            <div>
+                                <h3 id="tab-title">Gestione Cantieri in Corso</h3>
+                                <p id="tab-sub" class="text-dim">Panoramica dello stato di avanzamento e dei mezzi assegnati</p>
+                            </div>
+                            <div class="search-pill">🔍 Cerca cantieri o mezzi...</div>
+                        </div>
+
+                        <!-- Dynamic Content Cards -->
+                        <div id="tab-content" class="cards-layout">
+                            <div class="app-card">
+                                <div class="app-card-top">
+                                    <span class="badge-status status-active">🟢 In Corso</span>
+                                    <span class="card-date">Scadenza: 15/10/2026</span>
+                                </div>
+                                <h4>Residenza Il Parco</h4>
+                                <p class="card-client">Cliente: Rossi Costruzioni Srl</p>
+                                
+                                <div class="meter-wrap">
+                                    <div class="meter-text">Avanzamento Lavori: 65%</div>
+                                    <div class="meter-track"><div class="meter-fill" style="width: 65%;"></div></div>
+                                </div>
+
+                                <div class="card-tags">
+                                    <span class="tag-item">🚚 3 Mezzi Assegnati</span>
+                                    <span class="tag-item">📄 Genera Report PDF</span>
+                                </div>
+                            </div>
+
+                            <div class="app-card warning-border">
+                                <div class="app-card-top">
+                                    <span class="badge-status status-warn">⚠️ Scadenza Imminente</span>
+                                    <span class="card-date">Scadenza: 28/08/2026</span>
+                                </div>
+                                <h4>Ristrutturazione Villa Flora</h4>
+                                <p class="card-client">Cliente: Immobiliare Nord S.p.A.</p>
+                                
+                                <div class="meter-wrap">
+                                    <div class="meter-text">Avanzamento Lavori: 88%</div>
+                                    <div class="meter-track"><div class="meter-fill warn" style="width: 88%;"></div></div>
+                                </div>
+
+                                <div class="card-tags">
+                                    <span class="tag-item alert-tag">⚠️ Revisione DPI tra 5 giorni</span>
+                                    <span class="tag-item">🚚 2 Mezzi</span>
+                                </div>
+                            </div>
+                        </div>
+                    </main>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Editorial Feature Grid -->
+    <section id="features" class="grid-section">
+        <div class="container">
+            <div class="section-editorial-header motion-reveal">
+                <div class="header-number">01 / Funzionalità</div>
+                <h2 class="editorial-title">Architettura del Software</h2>
+                <p class="editorial-sub">Ogni modulo di mastro è sviluppato in codice Swift nativo per la massima fluidità su macOS.</p>
+            </div>
+
+            <div class="editorial-cards-grid">
+                
+                <!-- Feature 1 -->
+                <article class="studio-feature-card motion-reveal">
+                    <div class="card-num">01</div>
+                    <div class="card-badge-sm">Cantieri</div>
+                    <h3>Schede Cantieri & Avanzamento Lavori</h3>
+                    <p>Monitoraggio preciso con percentuale d'avanzamento, stato (In Corso, In Attesa, Terminato), committente, valore commessa, note ed allegati PDF.</p>
+                </article>
+
+                <!-- Feature 2 -->
+                <article class="studio-feature-card motion-reveal">
+                    <div class="card-num">02</div>
+                    <div class="card-badge-sm">Mezzi & DPI</div>
+                    <h3>Registro Mezzi & Scadenze Critiche</h3>
+                    <p>Archiviazione parco macchine con targa, modello ed anno. Alert visivi automatici a colori per revisioni ministeriali, assicurazioni, tagliandi e DPI.</p>
+                </article>
+
+                <!-- Feature 3 -->
+                <article class="studio-feature-card motion-reveal">
+                    <div class="card-num">03</div>
+                    <div class="card-badge-sm">macOS System</div>
+                    <h3>Notifiche Native di Sistema</h3>
+                    <p>Integrazione diretta con UNUserNotificationCenter. Banner interattivi e suoni nativi inviati a 30, 15 e 3 giorni prima di ogni scadenza.</p>
+                </article>
+
+                <!-- Feature 4 -->
+                <article class="studio-feature-card motion-reveal">
+                    <div class="card-num">04</div>
+                    <div class="card-badge-sm">Esportazione</div>
+                    <h3>Generazione Report PDF di Cantiere</h3>
+                    <p>Creazione istantanea di report PDF ufficiali completi dell'intestazione con il tuo Logo Aziendale, pronti per la stampa o l'invio via e-mail.</p>
+                </article>
+
+                <!-- Feature 5 -->
+                <article class="studio-feature-card motion-reveal">
+                    <div class="card-num">05</div>
+                    <div class="card-badge-sm">Anagrafica</div>
+                    <h3>Dipendenti & Subappaltatori</h3>
+                    <p>Organizzazione del personale aziendale con attestati di formazione sulla sicurezza e registro delle imprese subappaltatrici esterne.</p>
+                </article>
+
+                <!-- Feature 6 -->
+                <article class="studio-feature-card motion-reveal">
+                    <div class="card-num">06</div>
+                    <div class="card-badge-sm">Desktop Storage</div>
+                    <h3>Archivio Automatico Locale</h3>
+                    <p>Struttura automatica di cartelle creata su <code>~/Desktop/mastro_archivio/</code> per conservare tutti i file senza bisogno di cloud o connessione.</p>
+                </article>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Editorial Big Feature Banner -->
+    <section class="banner-section motion-reveal">
+        <div class="container">
+            <div class="banner-box">
+                <div class="banner-left">
+                    <span class="pill-tag-white">Personalizzazione Marca</span>
+                    <h2>Setup Iniziale & Logo Aziendale</h2>
+                    <p>Un wizard guidato ti permette di configurare la tua Ragione Sociale ed il tuo Logo senza che venga mai deformato. Se non carichi nessun logo, l'app usa l'icona nativa con il quadrato nero su bianco.</p>
+                </div>
+                <div class="banner-right">
+                    <div class="logo-preview-box">
+                        <span class="preview-emoji">🔲</span>
+                        <div class="preview-caption">mastro AppIcon</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- System Specs & Installation -->
+    <section id="specs" class="specs-editorial-section motion-reveal">
+        <div class="container">
+            <div class="specs-grid">
+                <div class="specs-col">
+                    <div class="header-number">02 / Specifiche</div>
+                    <h3>Requisiti & Compatibilità</h3>
+                    <p>mastro è compilato in codice nativo Swift 5.9 per la massima velocità d'esecuzione ed efficienza energetica su macOS.</p>
+                </div>
+                
+                <div class="specs-list-col">
+                    <div class="spec-row">
+                        <span class="spec-label">Sistema Operativo</span>
+                        <span class="spec-val">macOS 13.0 (Ventura) o superiore</span>
+                    </div>
+                    <div class="spec-row">
+                        <span class="spec-label">Architettura Processore</span>
+                        <span class="spec-val">Apple Silicon (M1/M2/M3/M4) & Intel 64-bit</span>
+                    </div>
+                    <div class="spec-row">
+                        <span class="spec-label">Formato Installatore</span>
+                        <span class="spec-val">DMG Nativo (Trascina in Applicazioni)</span>
+                    </div>
+                    <div class="spec-row">
+                        <span class="spec-label">Riservatezza Dati</span>
+                        <span class="spec-val">100% Locale sul disco fisso (Zero Tracciamento)</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Download Section CTA -->
+    <section class="cta-editorial motion-reveal">
+        <div class="container text-center">
+            <h2 class="cta-title">Pronto ad installare mastro?</h2>
+            <p class="cta-sub">Scarica il pacchetto installatore .DMG per macOS ed avvia l'app in pochi secondi.</p>
+
+            <a href="mastro_installer.dmg" download class="btn-hero-black large">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M15.97 6.85c.66-.8 1.11-1.92.99-3.05-.96.04-2.12.64-2.8 1.44-.61.71-1.14 1.86-1 2.98 1.07.08 2.15-.57 2.81-1.37z"/></svg>
+                <span>Scarica mastro_installer.dmg</span>
+            </a>
+        </div>
+    </section>
+
+    <!-- Editorial Footer -->
+    <footer class="footer-editorial">
+        <div class="container footer-grid">
+            <div class="footer-left">
+                <div class="footer-brand">mastro</div>
+                <p class="footer-desc">Software libero per macOS rilasciato sotto Licenza Open Source MIT.</p>
+            </div>
+            
+            <div class="footer-right">
+                <a href="mastro_installer.dmg" download>Download mastro_installer.dmg</a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Motion Primitives Script -->
+    <script src="app.js"></script>
+</body>
+</html>

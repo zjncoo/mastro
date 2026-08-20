@@ -1,0 +1,2040 @@
+{
+  "source": "/Users/francescozanchetta/Desktop/mastro/mastro/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Inizializzazione Workspace...",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 229
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mostra Guida & Tutorial Interattivo",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 265
+        }
+      },
+      {
+        "comment": "",
+        "key": "Guida",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 259
+        }
+      },
+      {
+        "comment": "",
+        "key": "Workspace Locale",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 287
+        }
+      },
+      {
+        "comment": "",
+        "key": "ACCESSO RAPIDO",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 335
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld link",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 338
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cartella Madre File",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 347
+        }
+      },
+      {
+        "comment": "",
+        "key": "Altri Accessi Rapidi (%lld)...",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 369
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld avvisi critici",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 398
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tutto aggiornato",
+        "location": {
+          "startingColumn": 74,
+          "startingLine": 398
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scadenze 30gg",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 396
+        }
+      },
+      {
+        "comment": "",
+        "key": "Impostazioni Generali",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 423
+        }
+      },
+      {
+        "comment": "",
+        "key": "Piattaforma di archiviazione documentale locale",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 468
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cerca...",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 488
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nuovo Cantiere",
+        "location": {
+          "startingColumn": 72,
+          "startingLine": 497
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nuovo Mezzo",
+        "location": {
+          "startingColumn": 69,
+          "startingLine": 499
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nuovo Dipendente",
+        "location": {
+          "startingColumn": 74,
+          "startingLine": 501
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nuovo Subappaltatore",
+        "location": {
+          "startingColumn": 78,
+          "startingLine": 503
+        }
+      },
+      {
+        "comment": "",
+        "key": "Importa Preventivo",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 516
+        }
+      },
+      {
+        "comment": "",
+        "key": "Apri Cartella",
+        "location": {
+          "startingColumn": 108,
+          "startingLine": 518
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ordinamento attuale: Dal più recente al meno recente. Clicca per invertire.",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 661
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ordinamento attuale: Dal meno recente al più recente. Clicca per invertire.",
+        "location": {
+          "startingColumn": 122,
+          "startingLine": 661
+        }
+      },
+      {
+        "comment": "",
+        "key": "Più recenti",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 649
+        }
+      },
+      {
+        "comment": "",
+        "key": "Meno recenti",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 649
+        }
+      },
+      {
+        "comment": "",
+        "key": "Modificato: %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 718
+        }
+      },
+      {
+        "comment": "",
+        "key": "•",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 722
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mostra e seleziona il file nel Finder",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 744
+        }
+      },
+      {
+        "comment": "",
+        "key": "Apri direttamente il documento con l'applicazione predefinita",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 755
+        }
+      },
+      {
+        "comment": "",
+        "key": "Vedi nel Finder",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 738
+        }
+      },
+      {
+        "comment": "",
+        "key": "Apri File",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 749
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scaduti",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 793
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 794
+        }
+      },
+      {
+        "comment": "",
+        "key": "In Scadenza (<= 15 gg)",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 802
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 803
+        }
+      },
+      {
+        "comment": "",
+        "key": "Prossimi Regolari",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 811
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 812
+        }
+      },
+      {
+        "comment": "",
+        "key": "Intervallo Tempo:",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 821
+        }
+      },
+      {
+        "comment": "",
+        "key": "Categoria:",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 832
+        }
+      },
+      {
+        "comment": "",
+        "key": "Critiche (7 Giorni)",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 822
+        }
+      },
+      {
+        "comment": "",
+        "key": "Imminenti (15 Giorni)",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 823
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mese Corrente (30 Giorni)",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 824
+        }
+      },
+      {
+        "comment": "",
+        "key": "Semestre (180 Giorni)",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 825
+        }
+      },
+      {
+        "comment": "",
+        "key": "SCADUTO (%lld gg fa)",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 865
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld gg rimasti",
+        "location": {
+          "startingColumn": 114,
+          "startingLine": 865
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sincronizza scadenza ed imposta promemoria 3 giorni prima su Google Calendar",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 887
+        }
+      },
+      {
+        "comment": "",
+        "key": "Riferimento: %@ • Scadenza: %@",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 859
+        }
+      },
+      {
+        "comment": "",
+        "key": "Google Cal",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 881
+        }
+      },
+      {
+        "comment": "",
+        "key": "Chiudi",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 970
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nome Cantiere:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1038
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Ristrutturazione Palazzina Via Roma",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 1039
+        }
+      },
+      {
+        "comment": "",
+        "key": "Committente / Cliente:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1044
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Mario Rossi Srl",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 1045
+        }
+      },
+      {
+        "comment": "",
+        "key": "Indirizzo Cantiere:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1048
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Via Roma 12, Milano",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 1049
+        }
+      },
+      {
+        "comment": "",
+        "key": "Descrizione / Note Cantiere:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1054
+        }
+      },
+      {
+        "comment": "",
+        "key": "Breve descrizione o note cantiere...",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 1055
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lavori Terminati / Chiusura Commessa",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 1069
+        }
+      },
+      {
+        "comment": "",
+        "key": "Inizio Lavori:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1060
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 1061
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fine Prevista:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1064
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 1065
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nessun operaio registrato in anagrafica.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1084
+        }
+      },
+      {
+        "comment": "",
+        "key": "Assegna Operai al Cantiere:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1077
+        }
+      },
+      {
+        "comment": "",
+        "key": "🟢 %lld operai disponibili",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1080
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@%@",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 1093
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ (%@) - Disponibile",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 1099
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ (%@) - In: %@",
+        "location": {
+          "startingColumn": 103,
+          "startingLine": 1099
+        }
+      },
+      {
+        "comment": "",
+        "key": "Assegna Veicoli / Macchinari:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1107
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ %@",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 1111
+        }
+      },
+      {
+        "comment": "",
+        "key": "Assegna Subappaltatori / Ditte Esterne:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1123
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nessun subappaltatore registrato.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1125
+        }
+      },
+      {
+        "comment": "",
+        "key": "🚜 %@",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 1130
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gestione Cartella Archivio:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1145
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 1146
+        }
+      },
+      {
+        "comment": "",
+        "key": "📁 Crea Nuova Cartella",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1147
+        }
+      },
+      {
+        "comment": "",
+        "key": "📂 Collega Cartella Esistente",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1148
+        }
+      },
+      {
+        "comment": "",
+        "key": "🚫 Nessuna Cartella",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1149
+        }
+      },
+      {
+        "comment": "",
+        "key": "Posizione dove creare la cartella '%@':",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 1158
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scegli dove crearla...",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 1166
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sfoglia...",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 1181
+        }
+      },
+      {
+        "comment": "",
+        "key": "Annulla",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1196
+        }
+      },
+      {
+        "comment": "",
+        "key": "Salva",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1198
+        }
+      },
+      {
+        "comment": "",
+        "key": "Targa / Matricola:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1302
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. AB123CD",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 1303
+        }
+      },
+      {
+        "comment": "",
+        "key": "Marca e Modello:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1306
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Iveco Daily 35C15",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 1307
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tipologia:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1313
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Autocarro / Furgone",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 1314
+        }
+      },
+      {
+        "comment": "",
+        "key": "Referente / Autista:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1317
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Marco Rossi",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 1318
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gestione Cartella Archivio:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1325
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 1326
+        }
+      },
+      {
+        "comment": "",
+        "key": "📁 Crea Nuova Cartella",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1327
+        }
+      },
+      {
+        "comment": "",
+        "key": "📂 Collega Cartella Esistente",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1328
+        }
+      },
+      {
+        "comment": "",
+        "key": "🚫 Nessuna Cartella",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1329
+        }
+      },
+      {
+        "comment": "",
+        "key": "Posizione dove creare la cartella '%@':",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 1339
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scegli dove crearla...",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 1347
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sfoglia...",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 1362
+        }
+      },
+      {
+        "comment": "",
+        "key": "Annulla",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1377
+        }
+      },
+      {
+        "comment": "",
+        "key": "Salva",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1379
+        }
+      },
+      {
+        "comment": "",
+        "key": "Carica Foto Profilo...",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1456
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nome e Cognome:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1466
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Mario Rossi",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 1467
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mansione / Ruolo:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1470
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Muratore Specializzato",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 1471
+        }
+      },
+      {
+        "comment": "",
+        "key": "Codice Fiscale:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1477
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. RSSMRA80A01H501Z",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 1478
+        }
+      },
+      {
+        "comment": "",
+        "key": "Descrizione / Note Dipendente:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1481
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note dipendente...",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 1482
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gestione Cartella Archivio:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1489
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 1490
+        }
+      },
+      {
+        "comment": "",
+        "key": "📁 Crea Nuova Cartella",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1491
+        }
+      },
+      {
+        "comment": "",
+        "key": "📂 Collega Cartella Esistente",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1492
+        }
+      },
+      {
+        "comment": "",
+        "key": "🚫 Nessuna Cartella",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1493
+        }
+      },
+      {
+        "comment": "",
+        "key": "Posizione dove creare la cartella '%@':",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 1502
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scegli dove crearla...",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 1510
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sfoglia...",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 1525
+        }
+      },
+      {
+        "comment": "",
+        "key": "Annulla",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1540
+        }
+      },
+      {
+        "comment": "",
+        "key": "Salva",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1542
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profilo Azienda & Marchio",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1649
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ragione Sociale / Nome Impresa:",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 1653
+        }
+      },
+      {
+        "comment": "",
+        "key": "Carica Logo...",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 1657
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rimuovi Logo",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 1666
+        }
+      },
+      {
+        "comment": "",
+        "key": "Posizione Cartelle di Archiviazione",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1681
+        }
+      },
+      {
+        "comment": "",
+        "key": "Backup & Ripristino Dati (.ZIP)",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1714
+        }
+      },
+      {
+        "comment": "",
+        "key": "Esporta Backup Completo ZIP",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 1716
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ripristina da File Backup ZIP",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 1717
+        }
+      },
+      {
+        "comment": "",
+        "key": "Collegamenti Rapidi Web & Accessi Rapidi",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 1726
+        }
+      },
+      {
+        "comment": "",
+        "key": "Aggiungi Accesso Rapido",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1735
+        }
+      },
+      {
+        "comment": "",
+        "key": "Accessi Rapidi Personalizzati:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1751
+        }
+      },
+      {
+        "comment": "",
+        "key": "Webmail:",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 1744
+        }
+      },
+      {
+        "comment": "",
+        "key": "https://...",
+        "location": {
+          "startingColumn": 93,
+          "startingLine": 1744
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fatture SDI:",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 1745
+        }
+      },
+      {
+        "comment": "",
+        "key": "https://...",
+        "location": {
+          "startingColumn": 97,
+          "startingLine": 1745
+        }
+      },
+      {
+        "comment": "",
+        "key": "PEC:",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 1746
+        }
+      },
+      {
+        "comment": "",
+        "key": "https://...",
+        "location": {
+          "startingColumn": 89,
+          "startingLine": 1746
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cassetto Fiscale:",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 1747
+        }
+      },
+      {
+        "comment": "",
+        "key": "https://...",
+        "location": {
+          "startingColumn": 102,
+          "startingLine": 1747
+        }
+      },
+      {
+        "comment": "",
+        "key": "Titolo",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 1755
+        }
+      },
+      {
+        "comment": "",
+        "key": "https://...",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 1759
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 1762
+        }
+      },
+      {
+        "comment": "",
+        "key": "Elimina questo accesso rapido",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 1782
+        }
+      },
+      {
+        "comment": "",
+        "key": "Link",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 1763
+        }
+      },
+      {
+        "comment": "",
+        "key": "Banca",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 1764
+        }
+      },
+      {
+        "comment": "",
+        "key": "Documento",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 1765
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sicurezza",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 1766
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mappa",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 1767
+        }
+      },
+      {
+        "comment": "",
+        "key": "Preferito",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 1768
+        }
+      },
+      {
+        "comment": "",
+        "key": "Portale",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 1769
+        }
+      },
+      {
+        "comment": "",
+        "key": "Aspetto",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1793
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tema:",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 1794
+        }
+      },
+      {
+        "comment": "",
+        "key": "Automatico",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 1795
+        }
+      },
+      {
+        "comment": "",
+        "key": "Modalità Luce",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 1796
+        }
+      },
+      {
+        "comment": "",
+        "key": "Modalità Notte",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 1797
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notifiche & Effetti Sonori",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1806
+        }
+      },
+      {
+        "comment": "",
+        "key": "Effetti Sonori di Sistema macOS (Glass / Pop)",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 1808
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notifiche di Sistema macOS per Scadenze Importanti",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1815
+        }
+      },
+      {
+        "comment": "",
+        "key": "Invia avvisi locali su Mac 30, 15 e 3 giorni prima delle scadenze dei mezzi e dei cantieri.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1817
+        }
+      },
+      {
+        "comment": "",
+        "key": "Richiedi Permessi",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1821
+        }
+      },
+      {
+        "comment": "",
+        "key": "Testa Notifica",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1827
+        }
+      },
+      {
+        "comment": "",
+        "key": "Procedura Guidata & Test Primo Avvio",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1841
+        }
+      },
+      {
+        "comment": "",
+        "key": "Puoi rieseguire in qualsiasi momento la procedura di configurazione iniziale o simulare il primo avvio dell'app.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1843
+        }
+      },
+      {
+        "comment": "",
+        "key": "Riavvia Setup Iniziale",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 1850
+        }
+      },
+      {
+        "comment": "",
+        "key": "Riavvia Tutorial Guida",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 1858
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pulisci Dati e Resetta (App 100% Pulita)",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 1868
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cambia...",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 1899
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 1900
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1977
+        }
+      },
+      {
+        "comment": "",
+        "key": "🚜",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2061
+        }
+      },
+      {
+        "comment": "",
+        "key": "Referente: %@  •  P.IVA/C.F.: %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2070
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cartella Finder",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2090
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cantieri Assegnati:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 2116
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nessun cantiere attivo",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2118
+        }
+      },
+      {
+        "comment": "",
+        "key": "🏗️ %@",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 2123
+        }
+      },
+      {
+        "comment": "",
+        "key": "DOCUMENTAZIONE CONFORMITÀ SUBAPPALTO:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 2135
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ragione Sociale / Nome Ditta:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2194
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Impianti Elettrici Rossi Srl",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 2195
+        }
+      },
+      {
+        "comment": "",
+        "key": "Referente / Titolare:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2198
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Ing. Mario Rossi",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 2199
+        }
+      },
+      {
+        "comment": "",
+        "key": "Partita IVA / Codice Fiscale:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2205
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. 01234567890",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 2206
+        }
+      },
+      {
+        "comment": "",
+        "key": "Telefono / Cellulare:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2209
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. 333 1234567",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 2210
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email / PEC:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2213
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. info@ditta.it",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 2214
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gestione Cartella Archivio:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2221
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 2222
+        }
+      },
+      {
+        "comment": "",
+        "key": "📁 Crea Nuova Cartella",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2223
+        }
+      },
+      {
+        "comment": "",
+        "key": "📂 Collega Cartella Esistente",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2224
+        }
+      },
+      {
+        "comment": "",
+        "key": "🚫 Nessuna Cartella",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2225
+        }
+      },
+      {
+        "comment": "",
+        "key": "Posizione dove creare la cartella '%@':",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 2234
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scegli dove crearla...",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 2242
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sfoglia...",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 2257
+        }
+      },
+      {
+        "comment": "",
+        "key": "Annulla",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 2272
+        }
+      },
+      {
+        "comment": "",
+        "key": "Salva",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 2274
+        }
+      },
+      {
+        "comment": "",
+        "key": "Vedi Documento",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 2363
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sostituisci Documento",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 2372
+        }
+      },
+      {
+        "comment": "",
+        "key": "Carica Documento",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 2372
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scad: %@ (%lld gg)",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2350
+        }
+      },
+      {
+        "comment": "",
+        "key": "Chiudi la guida ed entra nell'app (Esc)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 2495
+        }
+      },
+      {
+        "comment": "",
+        "key": "Guida Interattiva Gestore Cantieri",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2476
+        }
+      },
+      {
+        "comment": "",
+        "key": "Salta Tutorial",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2485
+        }
+      },
+      {
+        "comment": "",
+        "key": "Indietro",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 2562
+        }
+      },
+      {
+        "comment": "",
+        "key": "Avanti",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 2577
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ho Capito, Inizia Subito!",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 2585
+        }
+      },
+      {
+        "comment": "",
+        "key": "Salta i passaggi opzionali rimanenti ed usa i valori predefiniti",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 2701
+        }
+      },
+      {
+        "comment": "",
+        "key": "Passo %lld di %lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2679
+        }
+      },
+      {
+        "comment": "",
+        "key": "Salta Restante (Predefinito)",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 2691
+        }
+      },
+      {
+        "comment": "",
+        "key": "Indietro",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 2748
+        }
+      },
+      {
+        "comment": "",
+        "key": "Salta Passo",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 2758
+        }
+      },
+      {
+        "comment": "",
+        "key": "Avanti",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 2772
+        }
+      },
+      {
+        "comment": "",
+        "key": "Entra in Gestore Cantieri",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 2781
+        }
+      },
+      {
+        "comment": "",
+        "key": "Configuriamo la tua impresa in pochi passi per personalizzare workspace e documenti.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 2838
+        }
+      },
+      {
+        "comment": "",
+        "key": "Benvenuto in Gestore Cantieri! 👋",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2829
+        }
+      },
+      {
+        "comment": "",
+        "key": "Obbligatorio",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2832
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nome Impresa Edile / Ragione Sociale: *",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2847
+        }
+      },
+      {
+        "comment": "",
+        "key": "⚠️ Il Nome dell'Impresa è un campo obbligatorio per proseguire.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2851
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Edilizia Rossi Srl",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 2848
+        }
+      },
+      {
+        "comment": "",
+        "key": "Carica Logo Aziendale...",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 2856
+        }
+      },
+      {
+        "comment": "",
+        "key": "Seleziona la cartella locale su Mac dove l'app salverà i dati ed i documenti.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 2882
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cartella Predefinita dell'App (Madre) 📁",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2873
+        }
+      },
+      {
+        "comment": "",
+        "key": "Obbligatorio",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2875
+        }
+      },
+      {
+        "comment": "",
+        "key": "Percorso Cartella Madre selezionato:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 2888
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sfoglia...",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 2896
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ricevi avvisi automatici su Mac prima della scadenza di revisioni, DPI, tagliandi e cantieri.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 2922
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notifiche di Sistema macOS 🔔",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2913
+        }
+      },
+      {
+        "comment": "",
+        "key": "Consigliato",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2915
+        }
+      },
+      {
+        "comment": "",
+        "key": "Avvisi Automatici a 30, 15 e 3 Giorni Prima",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2935
+        }
+      },
+      {
+        "comment": "",
+        "key": "L'applicazione pianifica avvisi locali trasparenti nel Centro Notifiche del tuo Mac per evitare sanzioni o dimenticanze.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2937
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attiva Notifiche su macOS Adesso",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2950
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cartella Archivio Preventivi 📄",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 2965
+        }
+      },
+      {
+        "comment": "",
+        "key": "Seleziona la cartella del tuo Mac dove conservi i preventivi ed i documenti di offerta aziendali.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 2967
+        }
+      },
+      {
+        "comment": "",
+        "key": "Percorso Cartella Preventivi:",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 2973
+        }
+      },
+      {
+        "comment": "",
+        "key": "Seleziona Cartella...",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 2982
+        }
+      },
+      {
+        "comment": "",
+        "key": "Link & Accessi Rapidi Portali Aziendali 🔗",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 3001
+        }
+      },
+      {
+        "comment": "",
+        "key": "Inserisci i link ai portali web che utilizzi ogni giorno per aprirli con un clic dalla sidebar.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 3003
+        }
+      },
+      {
+        "comment": "",
+        "key": "Webmail / Email Aziendale:",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 3011
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fatturazione Elettronica:",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 3015
+        }
+      },
+      {
+        "comment": "",
+        "key": "Posta Elettronica Certificata (PEC):",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 3019
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cassetto Fiscale / Agenzia Entrate:",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 3023
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registra il tuo primo Automezzo (Opzionale) 🚛",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 3032
+        }
+      },
+      {
+        "comment": "",
+        "key": "Puoi registrare subito il primo veicolo aziendale o saltare questo passaggio.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 3034
+        }
+      },
+      {
+        "comment": "",
+        "key": "Targa / Matricola:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 3041
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. AB123CD",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 3042
+        }
+      },
+      {
+        "comment": "",
+        "key": "Marca e Modello:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 3045
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Iveco Daily 35C15",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 3046
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registra il tuo primo Dipendente (Opzionale) 👷",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 3055
+        }
+      },
+      {
+        "comment": "",
+        "key": "Inserisci un primo operaio o collaboratore, oppure salta questo passaggio.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 3057
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nome e Cognome:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 3064
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Mario Rossi",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 3065
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mansione / Ruolo:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 3068
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Muratore Specializzato",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 3069
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tutto Pronto per Iniziare! 🎉",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 3082
+        }
+      },
+      {
+        "comment": "",
+        "key": "La configurazione di Gestore Cantieri è stata completata con successo. Tutte le tue impostazioni e modifiche si salveranno automaticamente.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 3085
+        }
+      }
+    ]
+  },
+  "version": 1
+}

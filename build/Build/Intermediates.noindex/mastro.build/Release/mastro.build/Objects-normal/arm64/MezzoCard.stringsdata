@@ -1,0 +1,456 @@
+{
+  "source": "/Users/francescozanchetta/Desktop/mastro/mastro/MezzoCard.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Modifica Scheda Mezzo",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ Seleziona",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tipologia: %@ • Referente: %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cartella Mezzo",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "Elimina Mezzo",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld/%lld Documenti",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 242
+        }
+      },
+      {
+        "comment": "",
+        "key": "Modifica Dipendente & Foto",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 239
+        }
+      },
+      {
+        "comment": "",
+        "key": "👷",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 175
+        }
+      },
+      {
+        "comment": "",
+        "key": "📝 %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 222
+        }
+      },
+      {
+        "comment": "",
+        "key": "C.F.: %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 196
+        }
+      },
+      {
+        "comment": "",
+        "key": "🟢 Disponibile",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 202
+        }
+      },
+      {
+        "comment": "",
+        "key": "🏗️ Assegnato a: %@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 210
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fascicolo Personale",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 268
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registro DPI (%lld)",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 274
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attestati Sicurezza (%lld)",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 280
+        }
+      },
+      {
+        "comment": "",
+        "key": "Elimina Dipendente",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 288
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registro Consegna DPI (D.Lgs. 81/08) - %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 367
+        }
+      },
+      {
+        "comment": "",
+        "key": "Chiudi",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 464
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registra Nuova Consegna DPI",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 372
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dispositivo di Protezione (DPI):",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 375
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 376
+        }
+      },
+      {
+        "comment": "",
+        "key": "Imposta Scadenza / Rinnovo Obbligatorio",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 388
+        }
+      },
+      {
+        "comment": "",
+        "key": "Data Consegna all'Operaio:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 384
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 385
+        }
+      },
+      {
+        "comment": "",
+        "key": "Data Scadenza / Rinnovo:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 393
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 394
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note / Marca / Taglia:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 399
+        }
+      },
+      {
+        "comment": "",
+        "key": "Marca, modello o taglia...",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 400
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registra Consegna DPI",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 409
+        }
+      },
+      {
+        "comment": "",
+        "key": "DPI Consegnati all'Operaio:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 420
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nessun DPI consegnato registrato.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 423
+        }
+      },
+      {
+        "comment": "",
+        "key": "🦺 %@",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 429
+        }
+      },
+      {
+        "comment": "",
+        "key": "Consegnato il %@ • %@",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 430
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nessuna Scadenza",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 441
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rinnovo: %@ (%lld gg)",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 437
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attestati Formazione Sicurezza - %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 499
+        }
+      },
+      {
+        "comment": "",
+        "key": "Chiudi",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 601
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registra Nuovo Attestato / Corso",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 504
+        }
+      },
+      {
+        "comment": "",
+        "key": "Corso di Formazione:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 507
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 508
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ente Formatore / Scuola Edile:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 515
+        }
+      },
+      {
+        "comment": "",
+        "key": "es. Scuola Edile / Ente Accreditato",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 516
+        }
+      },
+      {
+        "comment": "",
+        "key": "Imposta Scadenza Periodicita",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 525
+        }
+      },
+      {
+        "comment": "",
+        "key": "Data Rilascio Attestato:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 521
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 522
+        }
+      },
+      {
+        "comment": "",
+        "key": "Data Scadenza Attestato:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 530
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 531
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note / Numero Protocollo:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 536
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note o numero protocollo...",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 537
+        }
+      },
+      {
+        "comment": "",
+        "key": "Registra Attestato",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 546
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attestati Registrati in Anagrafica:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 557
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nessun attestato di formazione registrato.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 560
+        }
+      },
+      {
+        "comment": "",
+        "key": "🎓 %@",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 566
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ente: %@ • Rilasciato: %@",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 567
+        }
+      },
+      {
+        "comment": "",
+        "key": "Senza Scadenza",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 578
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scadenza: %@ (%lld gg)",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 574
+        }
+      }
+    ]
+  },
+  "version": 1
+}
