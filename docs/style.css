@@ -880,3 +880,23 @@ body.editorial-theme {
     .footer-grid { flex-direction: column; gap: 20px; text-align: center; }
     .footer-right a { margin: 0 12px; }
 }
+
+/* Footer Credit & Portfolio Link (zinco.cc) */
+.footer-credit {
+    margin-top: 14px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #777779;
+}
+
+.credit-link {
+    font-weight: 700;
+    color: #111111;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    transition: opacity 0.2s ease;
+}
+
+.credit-link:hover {
+    opacity: 0.65;
+}
