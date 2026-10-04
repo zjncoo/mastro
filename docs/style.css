@@ -2,7 +2,7 @@
    Mastro — Typography System: Manrope 100% (Google Font 200..800)
    ========================================================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+@import url('fonts/manrope.css');
 
 :root {
     --bg-page: #FFFFFF;
