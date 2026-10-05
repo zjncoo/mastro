@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
             html: `
                 <div class="app-card">
                     <div class="app-card-top">
-                        <span class="badge-status status-active">🟢 In Corso</span>
+                        <span class="badge-status status-active"><span class="status-dot"></span> In Corso</span>
                         <span class="card-date">Scadenza: 15/10/2026</span>
                     </div>
                     <h4>Residenza Il Parco</h4>
@@ -53,14 +53,14 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
 
                     <div class="card-tags">
-                        <span class="tag-item">🚚 3 Mezzi Assegnati</span>
-                        <span class="tag-item">📄 Genera Report PDF</span>
+                        <span class="tag-item"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M1 3h15v13H1z"/><path d="M16 8h4l3 3v5h-7V8z"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/></svg> 3 Mezzi Assegnati</span>
+                        <span class="tag-item"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg> Genera Report PDF</span>
                     </div>
                 </div>
 
                 <div class="app-card warning-border">
                     <div class="app-card-top">
-                        <span class="badge-status status-warn">⚠️ Scadenza Imminente</span>
+                        <span class="badge-status status-warn"><span class="status-dot warn"></span> Scadenza Imminente</span>
                         <span class="card-date">Scadenza: 28/08/2026</span>
                     </div>
                     <h4>Ristrutturazione Villa Flora</h4>
@@ -72,8 +72,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
 
                     <div class="card-tags">
-                        <span class="tag-item alert-tag">⚠️ Revisione DPI tra 5 giorni</span>
-                        <span class="tag-item">🚚 2 Mezzi</span>
+                        <span class="tag-item alert-tag"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg> Revisione DPI tra 5 giorni</span>
+                        <span class="tag-item"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M1 3h15v13H1z"/><path d="M16 8h4l3 3v5h-7V8z"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/></svg> 2 Mezzi</span>
                     </div>
                 </div>
             `
@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
             html: `
                 <div class="app-card">
                     <div class="app-card-top">
-                        <span class="badge-status status-active">🟢 Regolare</span>
+                        <span class="badge-status status-active"><span class="status-dot"></span> Regolare</span>
                         <span class="card-date">Targa: EV 892 AB</span>
                     </div>
                     <h4>Autocarro Iveco Daily 35C</h4>
@@ -97,13 +97,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 <div class="app-card warning-border">
                     <div class="app-card-top">
-                        <span class="badge-status status-warn">⚠️ In Scadenza</span>
+                        <span class="badge-status status-warn"><span class="status-dot warn"></span> In Scadenza</span>
                         <span class="card-date">Targa: GB 410 FK</span>
                     </div>
                     <h4>Escavatore Caterpillar 320</h4>
                     <p class="card-client">Assegnato a: Residenza Il Parco</p>
                     <div class="card-tags">
-                        <span class="tag-item alert-tag">⚠️ Assicurazione tra 12 giorni</span>
+                        <span class="tag-item alert-tag"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg> Assicurazione tra 12 giorni</span>
                     </div>
                 </div>
             `
@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', () => {
             html: `
                 <div class="app-card">
                     <div class="app-card-top">
-                        <span class="badge-status status-active">🟢 Attivo</span>
+                        <span class="badge-status status-active"><span class="status-dot"></span> Attivo</span>
                         <span class="card-date">Mansione: Capocantiere</span>
                     </div>
                     <h4>Marco Benetti</h4>
@@ -126,7 +126,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 <div class="app-card">
                     <div class="app-card-top">
-                        <span class="badge-status status-active">🟢 Attivo</span>
+                        <span class="badge-status status-active"><span class="status-dot"></span> Attivo</span>
                         <span class="card-date">Mansione: Operatore Macchine</span>
                     </div>
                     <h4>Luca Fumagalli</h4>
@@ -143,7 +143,7 @@ document.addEventListener('DOMContentLoaded', () => {
             html: `
                 <div class="app-card">
                     <div class="app-card-top">
-                        <span class="badge-status status-active">🟢 Contratto Attivo</span>
+                        <span class="badge-status status-active"><span class="status-dot"></span> Contratto Attivo</span>
                         <span class="card-date">Spec: Impianti Elettrici</span>
                     </div>
                     <h4>ElettroEdile S.n.c.</h4>
@@ -160,7 +160,7 @@ document.addEventListener('DOMContentLoaded', () => {
             html: `
                 <div class="app-card">
                     <div class="app-card-top">
-                        <span class="badge-status status-active">🔔 UNUserNotificationCenter</span>
+                        <span class="badge-status status-active"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="margin-right:4px;"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg> UNUserNotificationCenter</span>
                     </div>
                     <h4>Notifiche di Sistema Attive</h4>
                     <p class="card-client">Ricevi avvisi automatici con banner e suono sul Mac.</p>
@@ -176,13 +176,13 @@ document.addEventListener('DOMContentLoaded', () => {
             html: `
                 <div class="app-card">
                     <div class="app-card-top">
-                        <span class="badge-status status-active">⚙️ Configurato</span>
+                        <span class="badge-status status-active"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="margin-right:4px;"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg> Configurato</span>
                     </div>
                     <h4>Edilizia Modern Srl</h4>
                     <p class="card-client">Cartella: ~/Desktop/mastro_archivio/</p>
                     <div class="card-tags">
                         <span class="tag-item">Logo: Caricato</span>
-                        <span class="tag-item">Icona Dock: Quadrato Nero/Bianco 🔲</span>
+                        <span class="tag-item">Icona Dock: Quadrato Nero/Bianco</span>
                     </div>
                 </div>
             `
